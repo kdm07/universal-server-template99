@@ -16,7 +16,6 @@ attendance-backend/
 ├── routes/
 ├── middleware/
 │
-├── uploads/
 │
 ├── .env
 └── server.js
